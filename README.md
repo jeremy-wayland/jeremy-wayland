@@ -10,7 +10,6 @@ Founder of **[Krv Analytics](https://krv.ai)** — building agentic data enginee
 - Topological & geometric machine learning
 - Graph neural networks & knowledge graphs
 - Federated learning & privacy-centric analytics
-- Data visualization & generative AI
 - Building reproducible ML tools for real-world impact
 
 ---
