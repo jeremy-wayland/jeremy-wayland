@@ -48,6 +48,5 @@ Founder of **[Krv Analytics](https://krv.ai)** — building agentic data enginee
 - 🌐 [jeremy-wayland.me](https://jeremy-wayland.me)
 - 🏢 [krv.ai](https://krv.ai)
 - 💼 [LinkedIn](https://linkedin.com/in/jeremywayland)
-- 💻 [GitHub](https://github.com/jwayland)
 
 ---
