@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jeremy Wayland
 
 **PhD candidate & data scientist** specializing in topological and geometric machine learning.  
-Founder of **[Krv Analytics](https://krv.ai)** — building agentic data engineering and federated analytics for healthcare.
+Founder of **[Krv](https://krv.ai)**.
 
 ---
 
