@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremy Wayland
 
-**PhD candidate & data scientist** specializing in topological and geometric machine learning.  Founder @ **[Krv](https://krv.ai)**.
+PhD candidate @ **[AIDOS Lab](https://aidos.group/)**.  Founder @ **[Krv](https://krv.ai)**.
 
 ---
 
