@@ -6,9 +6,9 @@
 
 ## 🔬 What I Do
 
+- Model and Dataset Evaluations in Healthcare
 - Topological & geometric machine learning
 - Graph neural networks & knowledge graphs
-- Applied projects in Healthcare and Environmental Science
 - Representation Learning as a Service
 
 ---
@@ -20,7 +20,6 @@
 - **[Apparent](https://github.com/aidos-lab/apparent):** Tools for interpretable patient representation learning in healthcare (IPLDSC 2024).
 - **[Presto](https://github.com/aidos-lab/Presto):** Topological analysis of latent representations in deep learning (ICML 2024).
 - **[Scott](https://github.com/aidos-lab/curvature-filtrations):** Novel filtrations for probing latent space geometry (NeurIPS 2023).
-- **[Polka](https://github.com/jeremy-wayland/polka):** Building private knowledge-base (hosted by neo4j) using local llms.
 
 
 ---
