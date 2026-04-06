@@ -6,9 +6,9 @@ PhD candidate @ **[AIDOS Lab](https://aidos.group/)**. Founder @ **[Krv](https:/
 
 ## 🔬 What I Do
 
-- Model and Dataset Evaluations in Healthcare
-- Topological & geometric deep learning
-- Graph neural networks & knowledge graphs
+- **Clinical AI Validation**: Stress-testing ML models for production readiness in healthcare—finding failure modes, generating evidence for FDA compliance
+- **Topological & Geometric Deep Learning**: Using discrete Ricci curvature, persistent homology, and geometric methods to understand data structure and improve model robustness
+- **Graph Neural Networks & Knowledge Graphs**: Leveraging network structure to solve problems in healthcare, climate, and ML evaluation
 
 ---
 
