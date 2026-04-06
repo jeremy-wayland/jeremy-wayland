@@ -1,36 +1,24 @@
 # 👋 Hi, I'm Jeremy Wayland
 
-PhD candidate @ **[AIDOS Lab](https://aidos.group/)**.  Founder @ **[Krv](https://krv.ai)**.
+PhD candidate @ **[AIDOS Lab](https://aidos.group/)**. Founder @ **[Krv](https://krv.ai)**.
 
 ---
 
 ## 🔬 What I Do
 
 - Model and Dataset Evaluations in Healthcare
-- Topological & geometric machine learning
+- Topological & geometric deep learning
 - Graph neural networks & knowledge graphs
-- Representation Learning as a Service
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Thema](https://github.com/Krv-Analytics/Thema)**: Graph-based modeling and analysis for US Coal Plants (*Nature Energy*, 2025).
-- **[Rings](https://github.com/aidos-lab/rings):** Evaluating graph learning datasets with topological and structural priors.
-- **[Apparent](https://github.com/aidos-lab/apparent):** Tools for interpretable patient representation learning in healthcare (IPLDSC 2024).
-- **[Presto](https://github.com/aidos-lab/Presto):** Topological analysis of latent representations in deep learning (ICML 2024).
-- **[Scott](https://github.com/aidos-lab/curvature-filtrations):** Novel filtrations for probing latent space geometry (NeurIPS 2023).
-
-
----
-
----
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** Python, Typescript
-- **Specialties:** Graph neural networks, topological data analysis (TDA), representation learning
-- **Tools:** Knowledge graphs, graph databases (Neo4j), Docker, Kubernetes, Terraform
-
+- **[Pulsar](https://github.com/Krv-Labs/pulsar)**: Blazing-fast implementation of [Thema](https://github.com/Krv-Labs/Thema) in Rust (Nature Energy 2025).
+- **[Topos](https://github.com/Krv-Labs/topos)**: Categorical framework for rigorous, program-level evaluation.
+- **[Trailed](https://github.com/Krv-Labs/trailed)**: Topological regularization and integrity learning for EHR data.
+- **[Rings](https://github.com/aidos-lab/rings)**: Relevant Information in Node Features and Graph Structure (ICML 2025).
+- **[Scott](https://github.com/aidos-lab/curvature-filtrations)**: Synthesizing curvature operations and topological tools (NeurIPS 2023).
 
 ---
 
