@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Jeremy Wayland
 
-PhD candidate @ **[AIDOS Lab](https://aidos.group/)**. Founder @ **[Krv](https://krv.ai)**.
+Founder @ **[Krv](https://krv.ai)**. 
+
+Former **[AIDOS Lab](https://aidos.group/)** member. PhD in Mathematics from **[TUM](https://www.cit.tum.de/en/cit/home/)**.
 
 ---
 
@@ -13,13 +15,13 @@ PhD candidate @ **[AIDOS Lab](https://aidos.group/)**. Founder @ **[Krv](https:/
 ---
 
 ## 🚀 Featured Projects
-
-- **[Pulsar](https://github.com/Krv-Labs/pulsar)**: Blazing-fast implementation of [Thema](https://github.com/Krv-Labs/Thema) in Rust (Nature Energy 2025).
 - **[Topos](https://github.com/Krv-Labs/topos)**: Code quality evaluations for agent-written programs.
-- **[Phil](https://github.com/Krv-Labs/phil)**: "Phil" your data! Multiverse imputation library for tabular data.
-- **[Trailed](https://github.com/Krv-Labs/trailed)**: Topological regularization and integrity learning for EHR data.
+- **[Pulsar](https://github.com/Krv-Labs/pulsar)**: Blazing-fast implementation of [Thema](https://github.com/Krv-Labs/Thema) in Rust (Nature Energy 2025).
 - **[Rings](https://github.com/aidos-lab/rings)**: Relevant Information in Node Features and Graph Structure (ICML 2025).
 - **[Scott](https://github.com/aidos-lab/curvature-filtrations)**: Synthesizing curvature operations and topological tools (NeurIPS 2023).
+- **[Phil](https://github.com/Krv-Labs/phil)**: "Phil" your data! Multiverse imputation library for tabular data.
+- **[Trailed](https://github.com/Krv-Labs/trailed)**: Topological regularization and integrity learning for EHR data.
+
 
 
 ---
