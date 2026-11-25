@@ -1,6 +1,4 @@
-<h1>Jeremy Wayland</h1>
-
-<h3><code>∂ ∘ ∂ = 0</code></h3>
+# Jeremy Wayland 
 
 <br />
 
@@ -9,10 +7,10 @@ boundary-operator@krv-labs:~$ whoami
 boundary-operator
 
 boundary-operator@krv-labs:~$ cat about.txt
-  co-founder, Krv        clinical AI infrastructure
+  co-founder, Krv        clinical trial intelligence
   PhD, TUM               topological & geometric deep learning
-  formerly AIDOS Lab     Helmholtz Munich
-  stack                  Rust · Python · persistent homology
+  formerly AIDOS Lab     advised by Bastian Rieck
+  formerly CHOC          Research Scientist
 ```
 
 ### `~/krv`
