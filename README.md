@@ -16,10 +16,10 @@
 <br />
 
 ```console
-boundary-operator@munich:~$ whoami
+boundary-operator@krv-labs:~$ whoami
 boundary-operator
 
-boundary-operator@munich:~$ cat about.txt
+boundary-operator@krv-labs:~$ cat about.txt
   co-founder, Krv        clinical AI infrastructure
   PhD, TUM               topological & geometric deep learning
   formerly AIDOS Lab     Helmholtz Munich
