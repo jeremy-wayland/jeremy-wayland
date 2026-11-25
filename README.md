@@ -1,8 +1,8 @@
 <h1 align="center">Jeremy Wayland</h1>
 
+<h3 align="center"><code>∂ ∘ ∂ = 0</code></h3>
+
 <p align="center">
-  <code>∂ ∘ ∂ = 0</code>
-  <br />
   <sub><i>models that work on real clinical data, and run locally</i></sub>
 </p>
 
