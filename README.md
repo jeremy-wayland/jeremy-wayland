@@ -4,7 +4,7 @@
 
 ```console
 boundary-operator@krv-labs:~$ whoami
-boundary-operator
+boundary-operator | ∂ ∘ ∂ = 0
 
 boundary-operator@krv-labs:~$ cat about.txt
   co-founder, Krv        clinical trial intelligence
