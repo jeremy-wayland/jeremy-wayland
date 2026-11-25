@@ -47,12 +47,3 @@ boundary-operator@munich:~$ cat about.txt
 ### `~/outside`
 
 🏄 surfing &nbsp;·&nbsp; ⛷️ skiing &nbsp;·&nbsp; 🎻 cello &nbsp;·&nbsp; 🚴 cycling around Bavaria
-
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-wayland&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-wayland&layout=compact&hide_border=true&bg_color=00000000" height="140" />
-  </picture>
-</p>
